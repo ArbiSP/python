@@ -163,5 +163,5 @@ users = []
 # for key in info:
 #     print(f"{key} - {info[key]}")
 
-for key, value in info.items():
-    print(f"{key} ---- {value}")
+# for key, value in info.items():
+#     print(f"{key} ---- {value}")
